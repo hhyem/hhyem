@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h3>🔐 Interests </h3>
-<br/>
 - Information Security & Security Automation
 - Privacy & Re-identification
 - Software Supply Chain Security
