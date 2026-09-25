@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Software Supply Chain Security
 - AI Security
 
-<h3>🛠 Tech <h3/><br />
+<h3>🛠 Tech <br />
 Python TensorFlow Kotlin Git GitHub Actions
 
 <h3>📝 Blog <h3/><br />
