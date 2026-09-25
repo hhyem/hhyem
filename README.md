@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>🔐 Interests <h3/>
+<h3>🔐 Interests </h3>
 - Information Security & Security Automation
 - Privacy & Re-identification
 - Software Supply Chain Security
