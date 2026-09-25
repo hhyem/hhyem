@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>🔐 Interests </h3>h
+<h3>🔐 Interests <h3/>h
 - Information Security & Security Automation
 - Privacy & Re-identification
 - Software Supply Chain Security
 - AI Security
 
-<h3>🛠 Tech </h3>h3><br />
+<h3>🛠 Tech <h3/>h3><br />
 Python TensorFlow Kotlin Git GitHub Actions
 
-<h3>📝 Blog </h3>h3><br />
+<h3>📝 Blog <h3/>h3><br />
 Tech Blog: https://h-factory.tistory.com/
