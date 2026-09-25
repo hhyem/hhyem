@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm interested in
+🔐 Interests
+- Information Security & Security Automation
+- Privacy & Re-identification
+- Software Supply Chain Security
+- AI Security
 
-- Information Security
-- Privacy
-- PETs
+🛠 Tech
+Python TensorFlow Kotlin Git GitHub Actions
+
+📝 Blog
+Tech Blog: https://h-factory.tistory.com/
